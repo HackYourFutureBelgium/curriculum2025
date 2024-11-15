@@ -1,27 +1,22 @@
 # Curriculum
 
-## HackYourFuture Denmark 🇩🇰
+## HackYourFuture Belgium
 
 > Here you can find an overview of the HackYourFuture program and a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository.
 
-Are you a new **volunteer**? Take a look [here](https://mentor.hackyourfuture.dk/) for some practical tips on how to get started!
 
-Are you a new **trainee**? Then check out [here](https://github.com/HackYourFuture-CPH/curriculum/blob/main/how-do-we-teach.md) for some extra info about how our program works and what it requires.
+## When do we run our trainings?
 
-**In any case, please read the [Code Of Conduct](https://github.com/HackYourFuture-CPH/curriculum/blob/main/code-of-conduct.pdf) before you join our community** ❤️
+### Sundays Classes
 
-## When do we run our workshops?
-
-### Workshops on Sundays
-
-Sessions take place every Sunday from 12.00 to approximately 16/16.30.
+Classes take place every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do you learn at HYF?
 
 ![Curriculum graphic + project](/curriculum.png)
 
 
-## [HTML/CSS](https://github.com/HackYourFuture-CPH/HTML-CSS)
+## [HTML/CSS](https://github.com/HackYourFutureBelgium/HTML-CSS_2025)
 
 > **HTML** is the standard markup language for creating Web pages. **CSS** is a language that describes the style of an HTML document. This module will introduce the basic concepts of HTML5 and CSS. We spend time getting you familiar with your text editor and handy developer tools. After this we will focus on responsive web development. Making responsive websites is an important part of front-end programming. You will learn how to make your websites responsive by using media queries using a “mobile first” approach. Last but not least we will spend time practicing some soft skills that we think are important for becoming a good developer. These include: give and receive feedback to your fellow trainees, presenting and explaining your work.
 
@@ -39,7 +34,7 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Give receive/feedback from/on fellow trainees
 - Presenting and explaining your work to others
 
-## [GIT1](https://github.com/HackYourFuture-CPH/Git/tree/main/Git1)
+## [GIT1](https://github.com/HackYourFutureBelgium/Git_2025/tree/main/Git1)
 
 > **GIT** is a software for tracking changes in any set of files. It's usually used for coordinating work among developers collaboratively working on the same source code during software development. The **command line** (CLI, shell) is the interface between you (the user) and the operating system which interprets your commands and allows the computer to respond to your command. In this module trainees get familiar with the command line and learn what GIT is and what problem it solves.
 
@@ -54,9 +49,9 @@ Sessions take place every Sunday from 12.00 to approximately 16/16.30.
 - Know how to navigate between branches and what git commands to use for them.
 - Basic CLI commands to navigate around the filesystem
 
-## [JavaScript1](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript1)
+## [JavaScript1](https://github.com/HackYourFutureBelgium/JavaScript_2025/tree/main/javascript1)
 
-In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/fundamentals) repo you can find a very nice overview of some of the fundamental JavaScript concepts
+In [this](https://github.com/HackYourFutureBelgium/JavaScript_2025/tree/main/fundamentals) repo you can find a very nice overview of some of the fundamental JavaScript concepts
 
 **Module goals**
 
@@ -79,7 +74,7 @@ In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/fundamental
 - Basic DOM manipulations
 - Code commenting
 
-## [JavaScript2](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript2)
+## [JavaScript2](https://github.com/HackYourFutureBelgium/JavaScript_2025/tree/main/javascript2)
 
 **Module goals**
 
@@ -96,7 +91,7 @@ In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/fundamental
 - Async VS Sync
 - Polling
 
-## [JavaScript3](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/javascript3)
+## [JavaScript3](https://github.com/HackYourFutureBelgium/JavaScript_2025/tree/main/javascript3)
 
 **Module goals**
 
@@ -106,7 +101,7 @@ In [this](https://github.com/HackYourFuture-CPH/JavaScript/tree/main/fundamental
 - Promises
 - Test Driven Development
 
-## [Database](https://github.com/HackYourFuture-CPH/databases)
+## [Database](https://github.com/HackYourFutureBelgium/databases_2025)
 
 > What is a **database**? A place to store “things”. Could be as simple as a phone book (physical) or as complex as storing all the inventory for Amazon.com. Why use databases? Easier than having data all over the place. Puts the problem of collecting, storing, sorting and searching data in a single place. There are two primary types of database systems - relational and NoSQL. Relational databases have tables that relate to one another and can be “joined” ACID vs BASE
 
@@ -121,7 +116,7 @@ By the end of this module, trainees should have a familiarity with and basic und
 - Non-relational data and NoSQL
 - MongoDB as an example of a NoSQL database
 
-## [NODE.js](https://github.com/HackYourFuture-CPH/Node.js)
+## [NODE.js](https://github.com/HackYourFutureBelgium/node.js_2025)
 
 > Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). For almost any web application, it is essential to have a backend. The backend is a place where we, the developers, can store our data, communicate with users and let the users communicate with us, do smart things like calculations, data processing etc.
 
@@ -142,11 +137,11 @@ There are two reasons why we at HYF choose Node.JS over others:
 - Using `process` to read arguments from the CLI
 - Using `express` to make a RESTful API
 
-## [React](https://github.com/HackYourFuture-CPH/React)
+## [React](https://github.com/HackYourFutureBelgium/React_2025)
 
 The React Module is split into 2 modules. 
 
-### [React 1](https://github.com/HackYourFuture-CPH/React/tree/main/react1)
+### [React 1](https://github.com/HackYourFutureBelgium/React_2025/tree/main/react1)
 
 **Module goals**
 
@@ -157,7 +152,7 @@ By the end of this module, trainees should have a familiarity with and basic und
 - Forms and Managing State
 - API Integration
 
-### [React 2](https://github.com/HackYourFuture-CPH/React/tree/main/react2)
+### [React 2](https://github.com/HackYourFutureBelgium/React_2025/tree/main/react2)
 
 **Module goals**
 
@@ -166,26 +161,12 @@ By the end of this module, trainees should have a familiarity with and basic und
 - SPA and routing using React Router
 - Redux
 
-## [GIT2](https://github.com/HackYourFuture-CPH/Git/tree/main/Git2)
+## [GIT2](https://github.com/HackYourFutureBelgium/Git_2025/tree/main/Git2)
 
 **Module goals**
 
 - To become comfortable using branches, handling merge conflicts, and using pull requests.
 - To be ready to use git to collaborate with other trainees on the Final Project.
-
-## [Career Training](https://github.com/HackYourFuture-CPH/career-training)
-
-> The goal of this series of sessions is to optimally prepare the trainees for the job hunt in Denmark's IT industry and to shape a better understanding of why quality code and solid code projects are the most valuable assets they have.
-
-**Module Goals**
-
-- Understand where to look for suitable jobs and internships.
-- Understand what you should do in order to be an attractive candidate on the job market.
-- Understand what HYF can do to support you on your job hunt.
-- Know how to assemble an effective CV.
-- Know how to make your Linkedin page attractive to recruiters.
-- Know how to make your GitHub page attractive to recruiters.
-- Learn how to perform well in a technical interview.
 
 
 ## [Final Project](https://github.com/HackYourFuture-CPH/finalproject)
@@ -200,8 +181,19 @@ By the end of this module, trainees should have a familiarity with and basic und
 - Show that you can work, communicate, and function in a team.
 - Get familiar working with agile methodologies.
 
+## [Career Training]
+
+> The goal of this series of sessions is to optimally prepare the trainees for the job hunt in Belgiums's IT industry and to shape a better understanding of why quality code and solid code projects are the most valuable assets they have.
+
+**Module Goals**
+
+- Understand where to look for suitable jobs and internships.
+- Understand what you should do in order to be an attractive candidate on the job market.
+- Understand what HYF can do to support you on your job hunt.
+- Know how to assemble an effective CV.
+- Know how to make your Linkedin page attractive to recruiters.
+- Know how to make your GitHub page attractive to recruiters.
+- Learn how to perform well in a technical interview.
 
 
-_The HackYourFuture curriculum is subject to CC BY NC SA copyright. This means you can freely use our materials, but just make sure to give us credit for it and don't use it commercially, as it is the intellectual property of our volunteers :)_
-
-<a rel="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>.
+_This document uses content from the <a rel="Denmark curriculum" href="https://github.com/HackYourFuture-CPH/curriculum?tab=readme-ov-file">HackYourFuture Denmark curriculum</a>, which is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>. 
