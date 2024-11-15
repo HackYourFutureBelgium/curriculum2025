@@ -4,6 +4,7 @@
 
 > Here you can find an overview of the HackYourFuture program and a short listing of the contents and deliverables/learning goals of the different modules. The headers of the different modules link to the actual repositories that are used by teachers to post assignments/reading materials etc. Be aware that some of the modules make use of more than one repository.
 
+As a **HYF student**, check out [here](https://github.com/HackYourFutureBelgium/curriculum2025/blob/main/how-do-we-teach.md) for some extra info about how our program works and what it requires. 
 
 ## When do we run our trainings?
 
@@ -13,8 +14,7 @@ Classes take place every Sunday from 12.00 to approximately 16/16.30.
 
 ## What do you learn at HYF?
 
-![Curriculum graphic + project](/curriculum.png)
-
+![Curriculum graphic + project](/curriculum.jpg)
 
 ## [HTML/CSS](https://github.com/HackYourFutureBelgium/HTML-CSS_2025)
 
@@ -139,7 +139,7 @@ There are two reasons why we at HYF choose Node.JS over others:
 
 ## [React](https://github.com/HackYourFutureBelgium/React_2025)
 
-The React Module is split into 2 modules. 
+The React Module is split into 2 modules.
 
 ### [React 1](https://github.com/HackYourFutureBelgium/React_2025/tree/main/react1)
 
@@ -168,11 +168,9 @@ By the end of this module, trainees should have a familiarity with and basic und
 - To become comfortable using branches, handling merge conflicts, and using pull requests.
 - To be ready to use git to collaborate with other trainees on the Final Project.
 
-
-## [Final Project](https://github.com/HackYourFuture-CPH/finalproject)
+## [Final Project]
 
 > In this module trainees work together in a team on a predefined project. The goal of this module is to combine all your acquired skills from the last modules into a project, often in collaboration with a real-world organization and real-world challenge to solve. In this project, scoping, requirement analysis, and project management are core themes while building your first full-stack project! 💪
-
 
 **Module goals**
 
@@ -196,4 +194,5 @@ By the end of this module, trainees should have a familiarity with and basic und
 - Learn how to perform well in a technical interview.
 
 
-_This document uses content from the <a rel="Denmark curriculum" href="https://github.com/HackYourFuture-CPH/curriculum?tab=readme-ov-file">HackYourFuture Denmark curriculum</a>, which is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+
+_This document uses content from the <a rel="Denmark curriculum" href="https://github.com/HackYourFuture-CPH/curriculum?tab=readme-ov-file">HackYourFuture Denmark curriculum</a>, which is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>.
